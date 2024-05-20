@@ -1,0 +1,19 @@
+{
+  "name": "class_2",
+  "version": "1.0.0",
+  "description": "a basic app to diploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "vishnu nakade",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
